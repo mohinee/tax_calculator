@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Questions rendered after data is fetched 1`] = `ShallowWrapper {}`;
